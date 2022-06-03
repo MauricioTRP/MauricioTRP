@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauricioTRP neewbie on CS
 - 👀 I’m interested in Music and Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and Ruby on Rails
 - 💞️ I’m looking to collaborate on Web App Developing
 - 📫 You can reachme at mauriciofb@gmail.com
 
