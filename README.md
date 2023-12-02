@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MauricioTRP
-- 👀 I’m interested in Rails, Maths and Music 🎺
-- 🌱 Currently getting better with Views Components using erb files
+- 👀 I’m interested in Web Development, Maths and Music 🎺
+- I know RoR, JS, SQL and
+- 🌱 Currently getting better at PHP
 - 📫 You can reachme at mauriciofb@gmail.com
 
 <!---
