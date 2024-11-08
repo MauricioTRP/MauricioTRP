@@ -1,4 +1,4 @@
-# [Mauricio TRP](@Mauriciotrp)
+# Mauricio Fuentes
 
 Developer from Chile living in Chiloé 🌱.
 
