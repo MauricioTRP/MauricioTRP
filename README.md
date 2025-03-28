@@ -2,22 +2,7 @@
 
 Developer from Chile living in Chiloé 🌱.
 
-Work mainly with JS and Ruby, both on Front and BackEnd.
-
 Enjoy $Maths$ and Music 🎺
-
-## Tech Stack
-
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby)
-![Rails](https://img.shields.io/badge/Rails-D30001?logo=rubyonrails)
-![Postgres](https://img.shields.io/badge/PostgresSQL-4169E1?logo=postgresql&logoColor=fff)
-![Node](https://img.shields.io/badge/Node-5FA04E?logo=nodedotjs&logoColor=fff)
-![JavaScrip](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=000)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-
 
 ## Contact & Education
 
