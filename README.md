@@ -2,7 +2,7 @@
 
 # Hi! I'm Mauricio Fuentes
 ---
-FullStack | Android Developer | Instructor
+FullStack | Mobile | Instructor
 ---
 
 ## About Me
