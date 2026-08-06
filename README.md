@@ -1,8 +1,14 @@
-# Mauricio Fuentes
+![](https://komarev.com/ghpvc/?username=MauricioTRP)
 
-Developer from Chile living in Chiloé 🌱.
+# Hi! I'm Mauricio Fuentes
+---
+FullStack | Android Developer | Instructor
+---
 
-Enjoy $Maths$ and Music 🎺
+## About Me
+
+Developer and instructor from Chiloé 🌱 (Chile) with over 5 years of experience building software, and training new talent. Always learning and into new problems.
+
 
 ## Contact & Education
 
